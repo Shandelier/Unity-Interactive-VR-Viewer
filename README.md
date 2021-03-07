@@ -1,2 +1,2 @@
-# VRPPWr
-Simple VR game made for VRPremium made in Unity. It allows player to immersively watch 360 photos. Deployment was meant for iOS devices. 
+# Unity-Interactive-VR-Viewer
+Simple VR viewer for VRPremium made in Unity. It allows to immersively watch 360 photos. Tested on iPhone 6s. 
